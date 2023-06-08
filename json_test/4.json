@@ -1,0 +1,44 @@
+{
+    "name": "Descendents #4",
+    "description": "The Descendents is a a collection of 4,444 Female characters on the Ethereum Blockchain",
+    "image": "https://raw.githubusercontent.com/TheDescendents/test/main/image_test/4.png",
+    "edition": 4,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "StairwayToHeaven"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Sorceress"
+        },
+        {
+            "trait_type": "Face",
+            "value": "DeathsGaze"
+        },
+        {
+            "trait_type": "Leg Armour",
+            "value": "GrayscaledLeggings"
+        },
+        {
+            "trait_type": "Chest Armour",
+            "value": "CuteHalter"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "SilverBun"
+        },
+        {
+            "trait_type": "Hand Armour",
+            "value": "SapphireRobe"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "EssenceCrook"
+        },
+        {
+            "trait_type": "Aura",
+            "value": "IceShards"
+        }
+    ]
+}
